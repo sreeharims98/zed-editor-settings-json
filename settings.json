@@ -1,0 +1,56 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "prettier": {
+    "allowed": true,
+  },
+  "proxy": "",
+  "buffer_line_height": "comfortable",
+  "buffer_font_family": "Fira Code",
+  "format_on_save": "on",
+  "agent_buffer_font_size": 14.0,
+  "terminal": {
+    "font_size": 14.0,
+  },
+  "debugger": {
+    "button": false,
+  },
+  "outline_panel": {
+    "button": false,
+  },
+  "collaboration_panel": {
+    "button": false,
+  },
+  "icon_theme": "Material Icon Theme",
+  "disable_ai": true,
+  "agent": {
+    "dock": "right",
+    "favorite_models": [],
+    "model_parameters": [],
+  },
+  "project_panel": {
+    "dock": "left",
+  },
+  "telemetry": {
+    "diagnostics": true,
+    "metrics": false,
+    "anthropic_retention": false,
+  },
+  "minimap": {
+    "show": "always",
+  },
+  "base_keymap": "VSCode",
+  "ui_font_size": 14.0,
+  "buffer_font_size": 12.0,
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "zedokai-darkest-machine",
+  },
+}
